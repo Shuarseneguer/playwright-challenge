@@ -1,1 +1,1 @@
-# plawright-challenge
+# playwright-challenge
